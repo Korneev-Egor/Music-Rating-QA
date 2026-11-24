@@ -73,3 +73,9 @@ npx playwright show-report
 Планируется расширение тестового покрытия,
 добавление тестовой документации и API-тестов.
 
+## Результаты автоматизированного тестирования
+
+Выполнено 9 запусков автотестов в Chromium, Firefox и WebKit.
+Все проверки успешно пройдены.
+
+![Playwright Test Report](screenshots/playwright-report.png)

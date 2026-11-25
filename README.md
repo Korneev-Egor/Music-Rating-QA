@@ -79,3 +79,13 @@ npx playwright show-report
 Все проверки успешно пройдены.
 
 ![Playwright Test Report](screenshots/playwright-report.png)
+
+
+## Ручное тестирование (Manual Testing)
+
+Подготовлена тестовая документация для проверки
+функциональности веб-приложения Music Rating.
+
+- [Тест-кейсы (10 сценариев)](manual-testing/test-cases.md)
+- [Чек-лист авторизации](manual-testing/checklist.md)
+- [Баг-репорты](manual-testing/bug-reports.md)
